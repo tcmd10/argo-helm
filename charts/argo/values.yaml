@@ -57,7 +57,7 @@ controller:
   #  spec:
   #    ttlStrategy:
   #      secondsAfterCompletion: 84600
-  # workflowWorkers: 32
+  workflowWorkers: 64
   # podWorkers: 32
   telemetryConfig:
     enabled: false
